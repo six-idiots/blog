@@ -36,6 +36,8 @@ theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+
+destination: ./docs
 #remote_theme: daviddarnes/alembic@main
 
 # Exclude from processing.
