@@ -1,0 +1,15 @@
+## Jekyll stuff
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+# Bundler
+.bundle/
+vendor/
+
+## Node
+node_modules/
+
+## etc
+*.DS_Store
